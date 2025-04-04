@@ -1,1 +1,1 @@
-# Word-Count-prac
+This is my first code which I am writing to github of uni. This is just a simple code which just count the ocurences of words in an array, nothing flashy. 
